@@ -24,7 +24,7 @@ Before running this application, ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/CodeWithHarry/flask-cloudinary-app
+   git clone https://github.com/KrVikashGupta/flask-cloudinary-app
    cd flask-cloudinary-app
    ```
 
@@ -84,8 +84,7 @@ flask-cloudinary-app/
 
 ### Screenshots
 
-![Home Png](Flask-Cloudinary-App/flask-cloudinary-app
-/screenshot//home.png)
+![Home Png](flask-cloudinary-app/screenshot/home.png)
 ![Playground Png](flask-cloudinary-app/screenshot/playground.png)
-![Playground Png](screenshot/playground.png)
-![Platground Png](screenshot/playground2.png)
+![Platground Png](flask-cloudinary-app/screenshot/playground2.png)
+
