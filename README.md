@@ -1,5 +1,4 @@
 # Flask Cloudinary App
-
 This project demonstrates a simple Flask application integrated with [Cloudinary](https://cloudinary.com/), allowing users to upload and manage media files (images, videos) via the Cloudinary service. The app has a clean and simple structure, with static and template directories for handling the front end, and Python scripts for backend integration.
 
 ## Features
