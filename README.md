@@ -84,6 +84,7 @@ flask-cloudinary-app/
 
 ### Screenshots
 
-![Home Png](screenshot/home.png)
+![Home Png](Flask-Cloudinary-App/flask-cloudinary-app
+/screenshot//home.png)
 ![Playground Png](screenshot/playground.png)
 ![Platground Png](screenshot/playground2.png)
